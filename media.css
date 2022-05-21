@@ -1,0 +1,32 @@
+@media (max-width:1200px) {
+
+    }
+    @media (max-width:566px) {
+
+    }
+@media (max-width:400px) {
+    .imeges{
+     width: 390px;
+     height: 844px;
+      }
+    .numberClock{
+        
+        padding: 0;
+        
+
+
+      }
+      .h{
+          font-size: 50px;
+          margin-top: 400px;
+      }
+      .m{
+        font-size: 50px;
+        margin-top: 400px;
+    }
+    .s{
+        font-size: 50px;
+        margin-top: 400px;
+    } 
+    
+}
